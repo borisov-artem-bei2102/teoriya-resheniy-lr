@@ -22,3 +22,7 @@ https://demottra.shinyapps.io/test_shiny_artem/
 
 ### ЛР6
 Файл - ЛР6.docx
+
+
+### ЛР7
+Файл - ЛР7.docx
